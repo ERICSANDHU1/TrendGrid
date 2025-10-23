@@ -137,13 +137,6 @@ npx inngest-cli@latest dev
 Then open http://localhost:3000
  in your browser.
 
-<a name="links">🔗 Assets</a>
-
-Assets and images for this project are available inside the public/readme folder.
-
-<img src="public/readme/videokit.webp" alt="Assets Preview">
-<a name="more">🚀 More</a>
-
 TrendGrid demonstrates modern architecture and real-time features for stock market tracking.
 You can extend it further by integrating additional APIs, portfolio management, or AI-driven recommendation systems.
 
