@@ -61,12 +61,19 @@ TypeScript
 <a name="features">🔋 Features</a>
 
 👉 Stock Dashboard — View real-time stock data with interactive line and candlestick charts, including historical performance.
+
 👉 Smart Search — Quickly find stocks across industries, market caps, or performance metrics.
+
 👉 Watchlist & Alerts — Create watchlists, set alert thresholds for price or volume changes, and receive instant notifications.
+
 👉 Company Insights — Access financial data, analyst ratings, earnings, and sentiment analysis.
+
 👉 Event-Driven Workflows — Automated price updates, report scheduling, and notifications powered by Inngest.
+
 👉 AI Insights & Summaries — Generate daily digests and performance summaries with AI assistance.
+
 👉 Customizable Notifications — Get personalized alerts tailored to watchlists and user preferences.
+
 👉 Analytics Dashboard — View insights into user behavior, stock trends, and engagement metrics.
 
 <a name="quick-start">🤸 Quick Start</a>
